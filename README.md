@@ -3,7 +3,7 @@
 Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 
 * Check out [this project](https://github.com/Ryycs/BotCommands) to get a  similar bot.
-* All Commands have a delay of 5 seconds.
+* All Commands have a minimum delay of 5 seconds.
 
 ## Commands for #RyycsTV:
 
