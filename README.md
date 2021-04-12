@@ -31,7 +31,7 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!pc  |!setup  |Specs of my PC|
 |!name|/|My name 4Head|
 |!v|!vanish|Timeouts you for 1 second|
-|!pyramid <emote> |Send a 7-width pyramid of an emote|
+|!pyramid <emote> |/|Send a 7-width pyramid of an emote|
 
 ## RyycsTV only Commands
 
