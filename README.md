@@ -13,7 +13,7 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!founder     |/      |Founder of RyycsTV |
 |!alter   |!age     |Age of me      |
 |!modlookup <user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
-|!logs <streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
+|!oldlogs <streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
 |!anträge <streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
 |!chat <streamer>|/  |Chat popout from a streamer|
 |!instagram    |!insta  |Link to my Instagram|
