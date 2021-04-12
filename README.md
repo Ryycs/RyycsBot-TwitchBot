@@ -12,16 +12,16 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!discord     |!dc     |get a discord-invite link |
 |!founder     |/      |Founder of RyycsTV |
 |!alter   |!age     |Age of me      |
-|!modlookup <user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
-|!oldlogs <streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
-|!anträge <streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
-|!chat <streamer>|/  |Chat popout from a streamer|
+|!modlookup \<user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
+|!oldlogs \<streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
+|!anträge \<streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
+|!chat \<streamer>|/  |Chat popout from a streamer|
 |!instagram    |!insta  |Link to my Instagram|
 |!donation    |!donate, !spende  |Link to donate|
 |!leaderboard  |!chatstats  |Link to StreamElements Leaderboard|
 |!commands  |!help  |Link to this file|
 |!followage  |!followdate  |Link to see your followage|
-|!viewerlist <streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
+|!viewerlist \<streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
 |!starterpaket  |!starterpack  |ss|
 |!sub  |!subscribe  |Subscribe to me on Twitch|
 |!twitter  |/  |Link to my Twitter|
@@ -32,7 +32,7 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!pc  |!setup  |Specs of my PC|
 |!name|/|My name 4Head|
 |!v|!vanish|Timeouts you for 1 second|
-|!pyramid \<amount> <emote> |/|Send a <amount>-width pyramid of an emote|
+|!pyramid \<amount> \<emote> |/|Send a <amount>-width pyramid of an emote|
 
 ## Commands for #RyycsBot
 
