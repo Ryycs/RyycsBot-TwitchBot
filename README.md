@@ -1,21 +1,37 @@
-# TwitchBot RyycsTV:
+# TwitchBot RyycsBot:
 
-Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
+Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 
-* DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot.
-* Cooldown of Commands are high to prevent a shadowban.
+* Check out [this project](https://github.com/Ryycs/BotCommands) to get a  similar bot.
+* All Commands have a delay of 5 seconds.
 
-## Public Commands
+## Commands for #RyycsTV:
 
-| Command  | Alias  | Description  | delay |
-|:-----------:|:-----------:|:------------:|:------:|
-|!ping     |!botinfo     |pings you with uptime and latency |5s     |
-|trihard   |/      |TriHard      |90s    |
-|!logs     |/      |logs from Pagshake, Itzzdaavid & Henstrom |20s     |
-|alienpls  |/      |AlienPls     |90s    |
-|test      |/      |test successful|5s   |
-|!commands |!help  |show this list|10s   |
-|!song     |!lied  |show current spotify song (DM me to get this feature)|5s   |
+| Command  | Alias  | Description  |
+|:-----------:|:-----------:|:------------:|
+|!discord     |!dc     |get a discord-invite link |
+|!founder     |/      |Founder of RyycsTV |
+|!alter   |!age     |Age of me      |
+|!modlookup <user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
+|!logs <streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
+|!anträge <streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
+|!chat <streamer>|/  |Chat popout from a streamer|
+|!instagram    |!insta  |Link to my Instagram|
+|!donation    |!donate, !spende  |Link to donate|
+|!leaderboard  |!chatstats  |Link to StreamElements Leaderboard|
+|!commands  |!help  |Link to this file|
+|!viewerlist <streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
+|!starterpaket  |!starterpack  |ss|
+|!sub  |!subscribe  |Subscribe to me on Twitch|
+|!twitter  |/  |Link to my Twitter|
+|!youtube  |!yt  |Link to my YouTube Channel|
+|!stuhl  |/  |Infos about my chair LULW|
+|!steam  |/  |Add me on Stream|
+|!spotify  |!playlist  |My spotify playlist AlienPls|
+|!pc  |!setup  |Specs of my PC|
+|!name|/|My name 4Head|
+|!v|!vanish|Timeouts you for 1 second|
+|!pyramid <emote> |Send a 7-width pyramid of an emote|
 
 ## RyycsTV only Commands
 
