@@ -33,11 +33,9 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!v|!vanish|Timeouts you for 1 second|
 |!pyramid <emote> |/|Send a 7-width pyramid of an emote|
 
-## RyycsTV only Commands
+## Commands for #RyycsBot
 
-| Command | Description |
+| Command |Alias| Description |
 |----------|:-----------:|
-|!send |send "word" in every channel  |
-|!spam |spams "word" x-times  |
-|!pyramid       |creates a 7 width <emote> pyramid  |
-|!chatterino |newest Chatterino version  |
+|!ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
+|!channels |/|Some more infos to the bot  |
