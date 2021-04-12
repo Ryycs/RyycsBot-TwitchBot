@@ -1,0 +1,2 @@
+# RyycsBot
+Bot by Ryycs
