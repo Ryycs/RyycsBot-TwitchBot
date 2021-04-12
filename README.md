@@ -19,6 +19,7 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |!instagram    |!insta  |Link to my Instagram|
 |!donation    |!donate, !spende  |Link to donate|
 |!leaderboard  |!chatstats  |Link to StreamElements Leaderboard|
+|!followage  |!followdate  |Link to see your followage|
 |!commands  |!help  |Link to this file|
 |!viewerlist <streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
 |!starterpaket  |!starterpack  |ss|
