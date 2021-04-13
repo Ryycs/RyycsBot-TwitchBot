@@ -40,3 +40,4 @@ Commands for TwitchBot [RyycsBot](https://www.twitch.tv/ryycsbot)
 |----------|-----|:-----------:|
 |!ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
 |!channels |/|Some more infos to the bot  |
+|!commands  |!help  |Link to this file|
