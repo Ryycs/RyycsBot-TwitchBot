@@ -5,6 +5,7 @@
 * Twitter: [RyycsTV](https://twitter.com/ryycstv)
 * Discord: ['Ryycs#9999](discord.com/users/444940928797638676)
 
+## Others
 * Check out [this project](https://github.com/Ryycs/BotCommands) to get a  similar bot.
 * All Commands have a minimum delay of 5 seconds.
 
