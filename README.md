@@ -16,6 +16,7 @@
 |!discord     |!dc     |get a discord-invite link |
 |!founder     |/      |Founder of RyycsTV |
 |!alter   |!age     |Age of me      |
+|!chatterino   |/     |Link to the newest chatterino version     |
 |!modlookup \<user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
 |!oldlogs \<streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
 |!anträge \<streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
