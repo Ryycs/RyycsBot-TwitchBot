@@ -15,6 +15,7 @@
 |:-----------:|:-----------:|:------------:|
 |!discord     |!dc     |get a discord-invite link |
 |!founder     |/      |Founder of RyycsTV |
+|!say \<text> |/      |Sends \<text> to in the Chat|
 |!alter   |!age     |Age of me      |
 |!chatterino   |/     |Link to the newest chatterino version     |
 |!modlookup \<user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
