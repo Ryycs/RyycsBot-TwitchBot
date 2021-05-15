@@ -13,9 +13,15 @@
 
 | Command  | Alias  | Description  |
 |:-----------:|:-----------:|:------------:|
+|!ping | Pings you with uptime & latency of the Bot |
+|!commands  |!help  |Link to this file|
+|!pyramid \<amount> \<emote> |/|Send a \<amount>-width pyramid of an emote|
 |!discord     |!dc     |get a discord-invite link |
 |!founder     |/      |Founder of RyycsTV |
-|!say \<text> |/      |Sends \<text> in the Chat|
+|!say \<search> |/      |Sends \<text> in the Chat|
+|!google \<text> |/| Send google link of your \<search>|
+|!emote <emote> |/| Send BTTV & FFZ Link of the \<emote>|
+|!pinguser \<@user> |/| Pings teh \<@user>|
 |!alter   |!age     |Age of me      |
 |!chatterino   |/     |Link to the newest chatterino version     |
 |!modlookup \<user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
@@ -25,7 +31,6 @@
 |!instagram    |!insta  |Link to my Instagram|
 |!donation    |!donate, !spende  |Link to donate|
 |!leaderboard  |!chatstats  |Link to StreamElements Leaderboard|
-|!commands  |!help  |Link to this file|
 |!followage  |!followdate  |Link to see your followage|
 |!viewerlist \<streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
 |!starterpaket  |!starterpack  |ss|
@@ -38,12 +43,11 @@
 |!pc  |!setup  |Specs of my PC|
 |!name|/|My name 4Head|
 |!v|!vanish|Timeouts you for 1 second|
-|!pyramid \<amount> \<emote> |/|Send a \<amount>-width pyramid of an emote|
 
 ## Commands for #RyycsBot
 
 | Command |Alias| Description |
 |----------|-----|:-----------:|
 |!ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
-|!channels |/|Some more infos to the bot  |
+|!pyramid \<amount> \<emote> |/|Send a \<amount>-width pyramid of an emote|
 |!commands  |!help  |Link to this file|
