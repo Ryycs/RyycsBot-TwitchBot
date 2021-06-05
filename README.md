@@ -34,7 +34,8 @@
 |%christmas|/|Countdown until christmas|
 |%emote \<emote>|%searchemote \<emote>|Sends BTTV/FFZ link of \<emote>|
 |%chatterino|/|Newest chatterino version|
-|%modlookup \<user>|%mod \<user>|Modlookup link of \<user>|
+|%modlookup \<user>|%mod \<user>|Modlookup link of \<user>| 
+|%say \<text>|/|Sends a message with your \<text>|
 |%logs|/| Logs link of the \<channel>|
 |%appeals|%requests|Link to unban request of the \<channel>|
 |%chat|%popout|Popout link of the \<channel> chat|
