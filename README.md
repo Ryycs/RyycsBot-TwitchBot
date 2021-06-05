@@ -51,41 +51,22 @@
 
 | Command  | Alias  | Description  |
 |:-----------:|:-----------:|:------------:|
-|!ping | Pings you with uptime & latency of the Bot |
-|!commands  |!help  |Link to this file|
-|!pyramid \<amount> \<emote> |/|Send a \<amount>-width pyramid of an emote|
-|!discord     |!dc     |get a discord-invite link |
-|!founder     |/      |Founder of RyycsTV |
-|!say \<search> |/      |Sends \<text> in the Chat|
-|!google \<text> |/| Send google link of your \<search>|
-|!emote <emote> |/| Send BTTV & FFZ Link of the \<emote>|
-|!pinguser \<@user> |/| Pings teh \<@user>|
-|!alter   |!age     |Age of me      |
-|!chatterino   |/     |Link to the newest chatterino version     |
-|!modlookup \<user>  |!mod <user> |modlookup link (Usage: "!modlookup ryycstv") |
-|!logs \<streamer> |/      |Link to get logs from different user (Usage: "!logs forsen") |
-|!anträge \<streamer>     |!appeals <streamer>, !requests <streamer>    |link to unban-requests of a streamer (Usage: "!anträge forsen"|
-|!chat \<streamer>|/  |Chat popout from a streamer|
-|!instagram    |!insta  |Link to my Instagram|
-|!donation    |!donate, !spende  |Link to donate|
-|!leaderboard  |!chatstats  |Link to StreamElements Leaderboard|
-|!followage  |!followdate  |Link to see your followage|
-|!viewerlist \<streamer> |/  |Link to Twitch viewerlist (Usage: "!viewerlist forsen"|
-|!starterpaket  |!starterpack  |ss|
-|!sub  |!subscribe  |Subscribe to me on Twitch|
-|!twitter  |/  |Link to my Twitter|
-|!youtube  |!yt  |Link to my YouTube Channel|
-|!stuhl  |/  |Infos about my chair LULW|
-|!steam  |/  |Add me on Stream|
-|!spotify  |!playlist  |My spotify playlist AlienPls|
-|!pc  |!setup  |Specs of my PC|
-|!name|/|My name 4Head|
-|!v|!vanish|Timeouts you for 1 second|
+|!discord|!dc|Discord invite link|
+|!founder|/| All founder in #ryycstv|
+|!alter|!age| Age of Ryycs|
+|!instagram|!insta|Instagram link to Ryycs's profile|
+|!donation|!donate|Donationlink pepeM|
+!!name|/|Ryycs name :D |
+|!spotify|!playlist| Spotify playlist link|
+|!pc|!setup|PC Specs|
+|!twitter|/|Twitter link|
+|!stuhl|/|Link to Noblechairs|
+|!steam|/|Steam friend invite link|
 
 ## Commands for #RyycsBot
 
 | Command |Alias| Description |
 |----------|-----|:-----------:|
-|!ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
-|!pyramid \<amount> \<emote> |/|Send a \<amount>-width pyramid of an emote|
-|!commands  |!help  |Link to this file|
+|%ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
+|%commands  |!help  |Link to this file|
+|%channels|/|All channels the bot is in|
