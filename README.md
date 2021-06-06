@@ -70,3 +70,6 @@
 |%ping |!botinfo|Pings you with uptime of the bot and latency to Twitch|
 |%commands  |!help  |Link to this file|
 |%channels|/|All channels the bot is in|
+|%join |%joinme| Let the bot join your channel|
+|%leave|%leaveme| Let the bot leave your channel|
+
