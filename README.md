@@ -6,7 +6,7 @@
 * Discord: ['Ryycs#9999](discord.com/users/444940928797638676)
 
 ## Others
-* Contact me to get this Bot.
+* Use "%join" to let the bot join your channel.
 * All Commands have a minimum delay of 5 seconds.
 
 
