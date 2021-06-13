@@ -36,6 +36,7 @@
 |%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
 |%emote \<emote>|%searchemote \<emote>|Sends BTTV/FFZ link of \<emote>|
 |%coinflip | %cf| Flips a coin in chat |
+|%latesttweet \<account>|%tweet| Latest tweet of the given \<account>|
 |%chatterino|/|Newest chatterino version|
 |%modlookup \<user>|%mod \<user>|Modlookup link of \<user>| 
 |%say \<text>|/|Sends a message with your \<text>|
