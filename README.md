@@ -32,6 +32,8 @@
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
 |%christmas|/|Countdown until christmas|
+|%bttv |%bttvemotes| Show all BTTV emotes of the channel |
+|%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
 |%emote \<emote>|%searchemote \<emote>|Sends BTTV/FFZ link of \<emote>|
 |%chatterino|/|Newest chatterino version|
 |%modlookup \<user>|%mod \<user>|Modlookup link of \<user>| 
