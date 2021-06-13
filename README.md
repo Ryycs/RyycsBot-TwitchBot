@@ -35,7 +35,7 @@
 |%bttv |%bttvemotes| Show all BTTV emotes of the channel |
 |%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
 |%emote \<emote>|%searchemote \<emote>|Sends BTTV/FFZ link of \<emote>|
-|%coinflip | %cf| Coinflip in chat |
+|%coinflip | %cf| Flips a coin in chat |
 |%chatterino|/|Newest chatterino version|
 |%modlookup \<user>|%mod \<user>|Modlookup link of \<user>| 
 |%say \<text>|/|Sends a message with your \<text>|
