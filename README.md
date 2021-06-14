@@ -47,7 +47,7 @@
 |%viewerlist|/| Viewerlist link of the \<channel>|
 |%starterpaket|%starterpack|Twitch norman starter pack|
 |%sub|%subscribe|Subscribe link of channel|
-|%vanish|%v| Timeout the useer for 1s|
+|%vanish|%v| Timeout the user for 1s|
 
 
 
