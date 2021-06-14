@@ -16,33 +16,33 @@
 |:-----------:|:-----------:|:------------:|
 |%commands | %help|Link to this file |
 |%pyramid \<amount> \<emote> |/  |Send a \<amount>-width pyramid of an emote|
-|%google \<text> |/|Send google link of your \<search>|
+|%google \<text> |/|Sends google link of your \<text>|
 |%id     |/     |Sends a id of an user|
-|%title | /| Title of your Channel or title of \<channel>|
-|%game |/|Game of your Channel or game of \<channel>|
-|%subemotes \<channel>|/|Subemotes of an channel|
-|%uptime | /| Uptime of your channel/ \<channel>|
+|%title | /| Title of your Channel or title of given \<channel>|
+|%game |/|Game of your Channel or game of given \<channel>|
+|%subemotes \<channel>|/|Subemotes of an \<channel>|
+|%uptime | /| Uptime of your or a given channel|
 |%latestfollower|%lf| Last follower of a \<channel>|
 |%followcount|%followers|Current followers|
 |%accountage| %accage | Displays your account age|
 |%avatar |%pfp|Link to your profile picture|
 |%randomuser|%ru| Tag a random user|
-|%followage \<channel> \<user>| %fa|Follow age of an \<user> in a \<channel>|
+|%followage \<user> \<channel>| %fa|Follow age of an \<user> in a \<channel>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
 |%christmas|/|Countdown until christmas|
 |%bttv |%bttvemotes| Show all BTTV emotes of the channel |
 |%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
-|%emote \<emote>|%searchemote \<emote>|Sends BTTV/FFZ link of \<emote>|
+|%emote \<emote>|%searchemote|Sends BTTV/FFZ link of \<emote>|
 |%coinflip | %cf| Flips a coin in chat |
 |%latesttweet \<account>|%tweet| Latest tweet of the given \<account>|
 |%chatterino|/|Newest chatterino version|
-|%modlookup \<user>|%mod \<user>|Modlookup link of \<user>| 
+|%modlookup \<user>|%mod|Modlookup link of \<user>| 
 |%say \<text>|/|Sends a message with your \<text>|
 |%logs|/| Logs link of the \<channel>|
-|%appeals|%requests|Link to unban request of the \<channel>|
-|%chat|%popout|Popout link of the \<channel> chat|
+|%appeals \<channel>|%requests|Link to unban request of the \<channel>|
+|%chat \<channel>|%popout|Popout link of the \<channel> chat|
 |%leaderboard|%chatstats| Chatstats link of the tagged \<channel>|
 |%viewerlist|/| Viewerlist link of the \<channel>|
 |%starterpaket|%starterpack|Twitch norman starter pack|
