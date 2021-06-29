@@ -60,7 +60,7 @@
 |!alter|!age| Age of Ryycs|
 |!instagram|!insta|Instagram link to Ryycs's profile|
 |!donation|!donate|Donationlink pepeM|
-!!name|/|Ryycs name :D |
+|!name|/|My name :D |
 |!spotify|!playlist| Spotify playlist link|
 |!pc|!setup|PC Specs|
 |!twitter|/|Twitter link|
