@@ -35,6 +35,7 @@
 |%bttv |%bttvemotes| Show all BTTV emotes of the channel |
 |%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
 |%emote \<emote>|%searchemote|Sends BTTV/FFZ link of \<emote>|
+|%kbemotes <channel> | / | Sends emote stats of given <channel>|
 |%coinflip | %cf| Flips a coin in chat |
 |%latesttweet \<account>|%tweet| Latest tweet of the given \<account>|
 |%chatterino|/|Newest chatterino version|
