@@ -28,6 +28,7 @@
 |%avatar |%pfp|Link to your profile picture|
 |%randomuser|%ru| Tag a random user|
 |%followage \<user> \<channel>| %fa|Follow age of an \<user> in a \<channel>|
+|%subage \<user> \<channel>| %sa| Sub age of an \<user> in a \<channel>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
@@ -48,6 +49,8 @@
 |%viewerlist|/| Viewerlist link of the \<channel>|
 |%starterpaket|%starterpack|Twitch norman starter pack|
 |%sub|%subscribe|Subscribe link of channel|
+|%cock|%cocksize| Your cocksize :)|
+|%dice \<max>|/|Roll a dice from 1 - \<max>| 
 |%vanish|%v| Timeout the user for 1s|
 
 
