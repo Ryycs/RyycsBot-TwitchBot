@@ -25,6 +25,7 @@
 |%uptime | /| Uptime of your or a given channel|
 |%latestfollower|%lf| Last follower of a \<channel>|
 |%followcount|%followers|Current followers|
+|%totalviews| %views| Total views|
 |%accountage| %accage | Displays your account age|
 |%avatar |%pfp|Link to your profile picture|
 |%randomuser|%ru| Tag a random user|
