@@ -28,7 +28,6 @@
 |%totalviews| %views| Total views|
 |%accountage| %accage | Displays your account age|
 |%avatar |%pfp|Link to your profile picture|
-|%randomuser|%ru| Tag a random user|
 |%followage \<user> \<channel>| %fa|Follow age of an \<user> in a \<channel>|
 |%subage \<user> \<channel>| %sa| Sub age of an \<user> in a \<channel>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
