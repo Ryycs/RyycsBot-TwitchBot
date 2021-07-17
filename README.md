@@ -6,7 +6,7 @@
 * Discord: [Ryycs#9999](https://discord.com/users/444940928797638676)
 
 ## Others
-* Use "%join" to let the bot join your channel.
+* Use "%join" in [Twitch chat of RyycsBot](https://www.twitch.tv/ryycsbot) to let the bot join your channel.
 * All Commands have a minimum delay of 5 seconds.
 
 
