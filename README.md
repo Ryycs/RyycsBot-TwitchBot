@@ -30,6 +30,8 @@
 |%avatar |%pfp|Link to your profile picture|
 |%followage \<user> \<channel>| %fa|Follow age of an \<user> in a \<channel>|
 |%subage \<user> \<channel>| %sa| Sub age of an \<user> in a \<channel>|
+|%massping | /| Pings everyone in chat, optional with \<text>|
+|%chattercount \<channel>| %oc | Chatter count of given \<channel>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
