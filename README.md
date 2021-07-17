@@ -37,7 +37,7 @@
 |%ispartner|/|Checks if a channel is partner or not|
 |%christmas|/|Countdown until christmas|
 |%bttv |%bttvemotes| Show all BTTV emotes of the channel |
-|%ffz | %ffzemmotes| Show all FFZ emotes of the channel|
+|%ffz | %ffzemotes| Show all FFZ emotes of the channel|
 |%emote \<BTTV/FFZ/7tv> \<emote>|%searchemote|Sends \<BTTV/FFZ/7tv> link of \<emote>|
 |%kbemotes <channel> | / | Sends emote stats of given <channel>|
 |%coinflip | %cf| Flips a coin in chat |
