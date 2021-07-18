@@ -59,7 +59,7 @@
 
 
 
-## Commands for #RyycsTV:
+## Commands in #RyycsTV:
 
 | Command  | Alias  | Description  |
 |:-----------:|:-----------:|:------------:|
@@ -75,7 +75,7 @@
 |!stuhl|/|Link to Noblechairs|
 |!steam|/|Steam friend invite link|
 
-## Commands for #RyycsBot
+## Commands in #RyycsBot
 
 | Command |Alias| Description |
 |----------|-----|:-----------:|
