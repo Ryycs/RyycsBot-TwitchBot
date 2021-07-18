@@ -32,6 +32,7 @@
 |%subage \<user> \<channel>| %sa| Sub age of an \<user> in a \<channel>|
 |%massping | /| Pings everyone in chat, optional with \<text>|
 |%chattercount \<channel>| %oc | Chatter count of given \<channel>|
+|%stalk \<channel>| %check| Check if \<user> is in the viewerlist of the channel|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
