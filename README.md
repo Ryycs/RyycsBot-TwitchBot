@@ -33,6 +33,7 @@
 |%massping | /| Pings everyone in chat, optional with \<text>|
 |%chattercount \<channel>| %oc | Chatter count of given \<channel>|
 |%stalk \<channel>| %check| Check if \<user> is in the viewerlist of the channel|
+|%modlookup \<user>|%mod| Check in how many channels the \<user> is a moderator| 
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
@@ -44,7 +45,6 @@
 |%coinflip | %cf| Flips a coin in chat |
 |%latesttweet \<account>|%tweet| Latest tweet of the given \<account>|
 |%chatterino|/|Newest chatterino version|
-|%modlookup \<user>|%mod|Modlookup link of \<user>| 
 |%say \<text>|/|Sends a message with your \<text>|
 |%logs|/| Logs link of the \<channel>|
 |%appeals \<channel>|%requests|Link to unban request of the \<channel>|
@@ -79,7 +79,8 @@
 
 | Command |Alias| Description |
 |----------|-----|:-----------:|
-|%ping |%botinfo|Pings you with uptime of the bot and latency to Twitch|
+|%ping |
+ info|Pings you with uptime of the bot and latency to Twitch|
 |%commands  |%help  |Link to this file|
 |%channels|/|All channels the bot is in|
 |%join |%joinme| Let the bot join your channel|
