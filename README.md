@@ -46,6 +46,7 @@
 |%staff|%isstaff| Check if a Twitch user is Twitch Staff|
 |%bancheck \<user>|/|Check if an \<user> is globally banned on Twitch|
 |%color \<user>|%chatcolor| Chatcolor of an \<user>|
+|%bio \<channel>|%info| Bio of the given \<channel>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
