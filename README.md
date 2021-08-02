@@ -14,6 +14,7 @@
 
 | Command  | Alias  | Description  |
 |:-----------:|:-----------:|:------------:|
+|%ping | %botinfo|Pings you with uptime of the bot and latency to Twitch|
 |%commands | %help|Link to this file |
 |%pyramid \<amount> \<emote> |/  |Send a \<amount>-width pyramid of an emote|
 |%google \<text> |/|Sends google link of your \<text>|
@@ -21,6 +22,7 @@
 |%title | /| Title of your Channel or title of given \<channel>|
 |%game |/|Game of your Channel or game of given \<channel>|
 |%info \<user>|%about|ID, Accountage, Follower, Game, Uptime, Title, Viewers, Partner of \<user>|
+|%weather \<location>|/|Checks the current weather for your \<location>|
 |%subemotes \<channel>|/|Subemotes of an \<channel>|
 |%uptime | /| Uptime of your or a given channel|
 |%latestfollower|%lf| Last follower of a \<channel>|
@@ -30,10 +32,20 @@
 |%avatar |%pfp|Link to your profile picture|
 |%followage \<user> \<channel>| %fa|Follow age of an \<user> in a \<channel>|
 |%subage \<user> \<channel>| %sa| Sub age of an \<user> in a \<channel>|
+|%chattercount|%oc| Check the offline viewer count|
+|%checkname \<name>|%checkaccount| Check if a Twitch username is still available or not| 
 |%massping | /| Pings everyone in chat, optional with \<text>|
 |%chattercount \<channel>| %oc | Chatter count of given \<channel>|
 |%stalk \<channel>| %check| Check if \<user> is in the viewerlist of the channel|
-|%modlookup \<user>|%mod| Check in how many channels the \<user> is a moderator| 
+|%li|%loot, %lootindex| Sends the current clash of clans loot index|
+|%modlookup \<user>|%mod, %ml| Check the Total views, total follower, partners & channels of the \<user>| 
+|%fm \<user> \<channel> |%fl| First tracked message of an \<user> in a specified \<channel>|
+|%lm \<user> \<chanenl>|%lastmessage| Last message of the \<user> in a \<channel>|
+|%rm \<user> \<channel>|%rl| Random chatline of the \<user> in the \<channel>|
+|%weit <emote>| /| Sends information about the given \<emote>|
+|%staff|%isstaff| Check if a Twitch user is Twitch Staff|
+|%bancheck \<user>|/|Check if an \<user> is globally banned on Twitch|
+|%color \<user>|%chatcolor| Chatcolor of an \<user>|
 |%bot | %botstatus| Checks if an user is a bot account or not|
 |%isaffilate|/|Checks if a channel is affiliate or not|
 |%ispartner|/|Checks if a channel is partner or not|
@@ -41,7 +53,7 @@
 |%bttv |%bttvemotes| Show all BTTV emotes of the channel |
 |%ffz | %ffzemotes| Show all FFZ emotes of the channel|
 |%emote \<BTTV/FFZ/7tv> \<emote>|%searchemote|Sends \<BTTV/FFZ/7tv> link of \<emote>|
-|%kbemotes <channel> | / | Sends emote stats of given <channel>|
+|%emotes \<channel>| /|Clear overview about all emotes of a \<channel>|
 |%coinflip | %cf| Flips a coin in chat |
 |%latesttweet \<account>|%tweet| Latest tweet of the given \<account>|
 |%chatterino|/|Newest chatterino version|
@@ -54,7 +66,8 @@
 |%starterpaket|%starterpack|Twitch norman starter pack|
 |%sub|%subscribe|Subscribe link of channel|
 |%cock|%cocksize| Your cocksize :)|
-|%dice \<max>|/|Roll a dice from 1 - \<max>| 
+|%dice \<max>|/|Roll a dice from 1 - \<max>|
+|%ppl|/|Sends ppL emote in Chat (7 lines)|
 |%vanish|%v| Timeout the user for 1s|
 
 
@@ -79,8 +92,7 @@
 
 | Command |Alias| Description |
 |----------|-----|:-----------:|
-|%ping |
- info|Pings you with uptime of the bot and latency to Twitch|
+|%ping |%botinfo|Pings you with uptime of the bot and latency to Twitch|
 |%commands  |%help  |Link to this file|
 |%channels|/|All channels the bot is in|
 |%join |%joinme| Let the bot join your channel|
