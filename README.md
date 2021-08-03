@@ -69,6 +69,7 @@
 |%sub|%subscribe|Subscribe link of channel|
 |%cock|%cocksize| Your cocksize :)|
 |%dice \<max>|/|Roll a dice from 1 - \<max>|
+|%spam \<lines> \<text>|/|Spams \<text> \<lines> times|
 |%ppl|/|Sends ppL emote in Chat (7 lines)|
 |%vanish|%v| Timeout the user for 1s|
 
