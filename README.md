@@ -21,7 +21,7 @@
 |%id     |/     |Sends a id of an user|
 |%title | /| Title of your Channel or title of given \<channel>|
 |%game |/|Game of your Channel or game of given \<channel>|
-|%info \<user>|%about|ID, Accountage, Follower, Game, Uptime, Title, Viewers, Partner of \<user>|
+|%info \<user>|%about|ID, Color, Accountage, Follower, Game, Uptime, Title, Viewers, Partners of \<user>|
 |%weather \<location>|/|Checks the current weather for your \<location>|
 |%subemotes \<channel>|/|Subemotes of an \<channel>|
 |%uptime | /| Uptime of your or a given channel|
