@@ -36,7 +36,7 @@
 |%checkname \<name>|%checkaccount| Check if a Twitch username is still available or not| 
 |%massping | /| Pings everyone in chat, optional with \<text>|
 |%chattercount \<channel>| %oc | Chatter count of given \<channel>|
-|%stalk \<channel>| %check| Check if \<user> is in the viewerlist of the channel|
+|%stalk \<user>| %check| Check if \<user> is in the viewerlist of the channel|
 |%li|%loot, %lootindex| Sends the current clash of clans loot index|
 |%clock|%uhr| Current time (MESZ)|
 |%modlookup \<user>|%mod, %ml| Check the Total views, total follower, partners & channels of the \<user>| 
