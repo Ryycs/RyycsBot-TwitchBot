@@ -65,7 +65,6 @@
 |%leaderboard|%chatstats| Chatstats link of the tagged \<channel>|
 |%viewerlist|/| Viewerlist link of the \<channel>|
 |%starterpaket|%starterpack|Twitch norman starter pack|
-|%sub|%subscribe|Subscribe link of channel|
 |%cock|%cocksize| Your cocksize :)|
 |%dice \<max>|/|Roll a dice from 1 - \<max>|
 |%spam \<lines> \<text>|/|Spams \<text> \<lines> times|
