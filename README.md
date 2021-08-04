@@ -90,6 +90,7 @@
 |!twitter|/|Twitter link|
 |!stuhl|/|Link to Noblechairs|
 |!steam|/|Steam friend invite link|
+|!bttv|!betterttv| Link to BTTV-Addon|
 
 ## Commands in #RyycsBot
 
