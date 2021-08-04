@@ -14,7 +14,7 @@
 
 | Command  | Alias  | Description  |
 |:-----------:|:-----------:|:------------:|
-|%ping | %botinfo|Pings you with uptime of the bot and latency to Twitch|
+|%ping | %botinfo, %pong|Pings you with uptime of the bot and latency to Twitch|
 |%commands | %help|Link to this file |
 |%pyramid \<amount> \<emote> |/  |Send a \<amount>-width pyramid of an emote|
 |%google \<text> |/|Sends google link of your \<text>|
